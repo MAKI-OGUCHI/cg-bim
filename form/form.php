@@ -1,3 +1,7 @@
+<?php
+/* template Name:問い合わせページ */
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>

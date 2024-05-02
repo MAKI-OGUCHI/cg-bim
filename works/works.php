@@ -1,3 +1,7 @@
+<?php
+/* template Name:worksページ */
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
